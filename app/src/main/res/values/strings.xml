@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnimeWatcher</string>
+    <string name="anime_id_text_field">Anime ID</string>
+    <string name="submit">Submit</string>
+    <string name="no_anime_was_found_exception">No anime was found!</string>
+    <string name="invalid_anime_id_exception">The anime id is not valid!</string>
+</resources>
